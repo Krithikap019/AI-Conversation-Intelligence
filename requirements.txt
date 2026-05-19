@@ -1,0 +1,11 @@
+streamlit>=1.42.0
+pandas>=2.2.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+transformers>=4.48.0
+torch>=2.2.0
+sentence-transformers>=3.3.0
+faiss-cpu>=1.8.0
+accelerate>=1.2.0
+protobuf>=5.29.0
+openai>=1.59.0
